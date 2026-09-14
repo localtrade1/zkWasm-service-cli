@@ -5,7 +5,7 @@
   "description": "cli to communicate with zkwasm cloud service",
   "dependencies": {
     "bn.js": "^5.1.1",
-    "eth-crypto": "^2.6.0",
+    "eth-crypto": "^4.1.0",
     "ethers": "^6.2.3",
     "form-data": "^4.0.0",
     "yargs": "17.6.2",
